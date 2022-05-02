@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Timothchesoli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ..work, connections and friendship.
+- 🌱 I’m currently learning ...at maseno University 
+- 💞️ I’m looking to collaborate on ..work and jobs .
+- 📫 How to reach me ...via WhatsApp using 0743244948 or email me with timothchesoli@gmail.com 
 
-<!---
-Timothchesoli/Timothchesoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!
